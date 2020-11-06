@@ -1,4 +1,4 @@
-# upbge-dome
+# vv-upbge-dome
 
 Character control example
 
